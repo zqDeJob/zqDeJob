@@ -1,15 +1,11 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=zqDeJob&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=flat" alt="访问量" />
-  <a href="https://github.com/zqDeJob/starsManager">
-    <img src="https://img.shields.io/github/stars/zqDeJob/starsManager?style=flat&logo=github&label=Stars&color=yellow" alt="Stars" />
-  </a>
-</p>
-
 <div align="center">
 
 # 你好，我是 zqDeJob 👋
 
 **一个路过的程序猿，偶尔造点趁手的小工具。**
+
+![访问量](https://visitor-badge.laobi.icu/badge?page_id=zqDeJob.zqDeJob&left_text=访问量)
+[![Stars](https://img.shields.io/github/stars/zqDeJob/starsManager?style=flat&logo=github&label=Stars&color=yellow)](https://github.com/zqDeJob/starsManager)
 
 [![博客](https://img.shields.io/badge/博客-避风塘-0366d6?style=for-the-badge&logo=githubpages&logoColor=white)](https://zqdejob.github.io/)
 [![所在地](https://img.shields.io/badge/所在地-湖南长沙-f85149?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
