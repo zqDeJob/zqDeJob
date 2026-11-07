@@ -1,8 +1,13 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=zqDeJob&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=flat" alt="访问量" />
+  <a href="https://github.com/zqDeJob/starsManager">
+    <img src="https://img.shields.io/github/stars/zqDeJob/starsManager?style=flat&logo=github&label=Stars&color=yellow" alt="Stars" />
+  </a>
+</p>
+
 <div align="center">
 
 # 你好，我是 zqDeJob 👋
-
-☀️
 
 **一个路过的程序猿，偶尔造点趁手的小工具。**
 
