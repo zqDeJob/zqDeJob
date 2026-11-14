@@ -22,7 +22,6 @@
 
 ## 📌 目录
 
-- [🚀 我的项目](#-我的项目)
 - [🛠 技术栈](#-技术栈)
 - [📊 GitHub 数据](#-github-数据)
 - [🔭 正在做](#-正在做)
@@ -31,67 +30,6 @@
 - [🤔 需要帮助](#-需要帮助)
 - [💬 可以聊](#-可以聊)
 - [📫 联系我](#-联系我)
-
----
-
-## 🚀 我的项目
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>⭐ Stars Manager</b><br><br>
-给 GitHub Stars 做本地分类、描述和 Tag，支持 Web / Windows / 浏览器扩展。<br><br>
-<b>TypeScript</b> · <b>React</b> · <b>Electron</b><br><br>
-<!-- 封面图：把图片放到 docs/ 目录后，取消下一行注释 -->
-<!-- <br><img src="./docs/stars-manager.png" width="100%" alt="Stars Manager" /> --><br><br>
-<a href="https://github.com/zqDeJob/starsManager">🔗 源码仓库</a>
-</td>
-<td width="50%" valign="top">
-<b>📝 避风塘（zqDeJob.github.io）</b><br><br>
-基于 Hexo + Butterfly 的个人博客，记录开发、踩坑与日常。<br><br>
-<b>Hexo</b> · <b>JavaScript</b> · <b>Tailwind CSS</b><br><br>
-<!-- 封面图：把图片放到 docs/ 目录后，取消下一行注释 -->
-<!-- <br><img src="./docs/blog.png" width="100%" alt="避风塘博客" /> --><br><br>
-<a href="https://zqdejob.github.io/">🔗 访问博客</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b>🗂 zTasking</b><br><br>
-Obsidian 插件：DIY 任务工作台，把任务管理搬进笔记库。<br><br>
-<b>TypeScript</b> · <b>Obsidian API</b><br><br>
-<!-- 封面图：把图片放到 docs/ 目录后，取消下一行注释 -->
-<!-- <br><img src="./docs/ztasking.png" width="100%" alt="zTasking" /> --><br><br>
-<a href="https://github.com/zqDeJob/obsidian-plugin-ztasking">🔗 源码仓库</a>
-</td>
-<td width="50%" valign="top">
-<b>🌐 zTranslate</b><br><br>
-Obsidian 插件：在笔记内快速翻译选中文本。<br><br>
-<b>JavaScript</b> · <b>MIT License</b><br><br>
-<!-- 封面图：把图片放到 docs/ 目录后，取消下一行注释 -->
-<!-- <br><img src="./docs/ztranslate.png" width="100%" alt="zTranslate" /> --><br><br>
-<a href="https://github.com/zqDeJob/obsidian-plugin-ztranslate">🔗 源码仓库</a>
-</td>
-</tr>
-</table>
-
-> 更多项目：[github.com/zqDeJob](https://github.com/zqDeJob?tab=repositories)
-
-<!--
-大图 / 动图区：把录屏 GIF 放到 docs/ 目录后，取消下面整段注释
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>Stars Manager 录屏</b><br>
-<img src="./docs/stars-manager-demo.gif" width="100%" alt="Stars Manager demo" />
-</td>
-<td width="50%" valign="top">
-<b>zTasking 录屏</b><br>
-<img src="./docs/ztasking-demo.gif" width="100%" alt="zTasking demo" />
-</td>
-</tr>
-</table>
--->
 
 ---
 
@@ -113,28 +51,31 @@ Obsidian 插件：在笔记内快速翻译选中文本。<br><br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zqDeJob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=zqDeJob&theme=tokyonight&hide_border=true&locale=zh&card_width=495" alt="Contribution Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqDeJob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top Langs" />
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zqDeJob&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<!-- 贡献热力图（每 3 小时自动更新） -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<a href="https://github.com/zqDeJob?tab=repositories"><img src="https://img.shields.io/github/stars/zqDeJob?style=social" alt="Stars" /></a>
+<a href="https://github.com/zqDeJob?tab=followers"><img src="https://img.shields.io/github/followers/zqDeJob?style=social" alt="Followers" /></a>
+<a href="https://github.com/zqDeJob/zqDeJob/commits"><img src="https://img.shields.io/github/last-commit/zqDeJob/zqDeJob?style=social" alt="Last Commit" /></a>
 
 </div>
+
+<!--
+说明：github-readme-stats / top-langs / activity-graph 都架在 Vercel 上，
+部分网络环境下会超时（图片显示为裂图），所以这里只用 streak-stats.demolab.com 和 shields.io。
+如果哪天 Vercel 能直连了，可以再加回来：
+<img src="https://github-readme-stats.vercel.app/api?username=zqDeJob&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqDeJob&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
+-->
 
 ---
 
 ## 🔭 正在做
 
-- **[Stars Manager](https://github.com/zqDeJob/starsManager)** — 给 GitHub Stars 做本地分类、描述和 Tag，支持 Web / Windows / 浏览器扩展
 - **[zqDeJob.github.io](https://github.com/zqDeJob/zqDeJob.github.io)** — 基于 Hexo + Butterfly 的个人博客「避风塘」
 - **[zTasking](https://github.com/zqDeJob/obsidian-plugin-ztasking)** — Obsidian 上的 DIY 任务工作台
+- **[zTranslate](https://github.com/zqDeJob/obsidian-plugin-ztranslate)** — Obsidian 里划词翻译的小插件
 
 ## 🌱 正在学
 
@@ -148,7 +89,7 @@ Obsidian 插件：在笔记内快速翻译选中文本。<br><br>
 
 ## 🤔 需要帮助
 
-- Stars Manager 的使用反馈与功能建议
+- Obsidian 插件开发的使用反馈与功能建议
 - Hexo 主题定制、静态站部署相关的最佳实践
 
 ## 💬 可以聊
@@ -170,7 +111,7 @@ Obsidian 插件：在笔记内快速翻译选中文本。<br><br>
 
 ## ⚡ 趣闻
 
-Star 的仓库一多就找不到，于是干脆自己写了个 **Stars Manager** ——
+Star 的仓库一多就找不到，于是干脆自己写工具来管 ——
 *问题不大，工具来凑。*
 
 ---

@@ -4,11 +4,9 @@
 
 | 文件名 | 用途 | 建议尺寸 |
 | :-- | :-- | :-- |
-| `stars-manager.png` | Stars Manager 项目卡片封面 | 800 × 400 |
 | `blog.png` | 避风塘博客封面 | 800 × 400 |
-| `ztasking.png` | zTasking 项目卡片封面 | 800 × 400 |
-| `ztranslate.png` | zTranslate 项目卡片封面 | 800 × 400 |
-| `stars-manager-demo.gif` | Stars Manager 录屏动图 | ≤ 5 MB |
+| `ztasking.png` | zTasking 封面 | 800 × 400 |
+| `ztranslate.png` | zTranslate 封面 | 800 × 400 |
 | `ztasking-demo.gif` | zTasking 录屏动图 | ≤ 5 MB |
 
 放好文件后，回到根目录 `README.md`，把对应的 `<!-- ... -->` 注释去掉即可显示。
