@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zqDeJob.zqDeJob&amp;left_text=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="访问量" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zqDeJob.zqDeJob&amp;left_text=VISITORS&amp;left_color=%23555" alt="访问量" />
   <a href="https://github.com/zqDeJob?tab=followers"><img src="https://img.shields.io/github/followers/zqDeJob?style=social" alt="Followers" /></a>
   <a href="https://github.com/zqDeJob?tab=repositories"><img src="https://img.shields.io/github/stars/zqDeJob?style=social" alt="Stars" /></a>
 </p>
