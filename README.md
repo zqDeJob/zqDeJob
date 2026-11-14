@@ -3,10 +3,10 @@
 # Hi, 我是 zqDeJob 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&width=650&color=58A6FF&lines=%E4%B8%80%E4%B8%AA%E8%B7%AF%E8%BF%87%E7%9A%84%E7%A8%8B%E5%BA%8F%E7%8C%BF%3B%E5%80%A6%E4%BC%98%E9%80%A0%E7%82%B9%E8%B6%81%E6%89%8B%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7%3B%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&width=650&color=58A6FF&lines=%E4%B8%80%E4%B8%AA%E8%B7%AF%E8%BF%87%E7%9A%84%E7%A8%8B%E5%BA%8F%E7%8C%BF%3B%E5%81%B6%E5%B0%94%E9%80%A0%E7%82%B9%E8%B6%81%E6%89%8B%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7%3B%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB" alt="Typing SVG" />
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zqDeJob.zqDeJob&left_text=访问量" alt="访问量" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zqDeJob.zqDeJob&amp;left_text=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="访问量" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-zqDeJob-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zqDeJob)
 [![博客](https://img.shields.io/badge/博客-避风塘-0366d6?style=for-the-badge&logo=githubpages&logoColor=white)](https://zqdejob.github.io/)
