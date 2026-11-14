@@ -36,7 +36,6 @@
 <p>
   <a href="#-关于我"><img src="https://img.shields.io/badge/关于我-1f6feb?style=flat-square" alt="关于我" /></a>
   <a href="#-技术栈"><img src="https://img.shields.io/badge/技术栈-1f6feb?style=flat-square" alt="技术栈" /></a>
-  <a href="#-在做的东西"><img src="https://img.shields.io/badge/在做的东西-1f6feb?style=flat-square" alt="在做的东西" /></a>
   <a href="#-github-数据"><img src="https://img.shields.io/badge/GitHub_数据-1f6feb?style=flat-square" alt="GitHub 数据" /></a>
   <a href="#-近况"><img src="https://img.shields.io/badge/近况-1f6feb?style=flat-square" alt="近况" /></a>
   <a href="#-联系我"><img src="https://img.shields.io/badge/联系我-1f6feb?style=flat-square" alt="联系我" /></a>
@@ -51,7 +50,7 @@
 | 🧑‍💻 **称呼** | zqDeJob / Martin |
 | 📍 **坐标** | 湖南 · 长沙 |
 | 🧩 **日常** | 写点前端与全栈，顺手做几个 Obsidian 插件 |
-| 🎯 **现在** | 把「自己会用的小工具」做出来，然后慢慢养着 |
+| 🎯 **在写** | [zTasking](https://github.com/zqDeJob/obsidian-plugin-ztasking) · [zTranslate](https://github.com/zqDeJob/obsidian-plugin-ztranslate) · [避风塘](https://zqdejob.github.io/) |
 | ☕ **信条** | 问题不大，工具来凑 |
 
 ---
@@ -86,18 +85,6 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0366d6?style=flat-square&logo=github&logoColor=white)
 
 </div>
-
----
-
-## 📦 在做的东西
-
-| 项目 | 一句话 | 状态 |
-| :-- | :-- | :-- |
-| **[zTasking](https://github.com/zqDeJob/obsidian-plugin-ztasking)** | Obsidian 里的 DIY 任务工作台，把任务管理搬进笔记库 | ![Language](https://img.shields.io/github/languages/top/zqDeJob/obsidian-plugin-ztasking?style=flat-square&color=3178C6) ![Last commit](https://img.shields.io/github/last-commit/zqDeJob/obsidian-plugin-ztasking?style=flat-square&color=2ea043) ![License](https://img.shields.io/github/license/zqDeJob/obsidian-plugin-ztasking?style=flat-square&color=yellow) |
-| **[zTranslate](https://github.com/zqDeJob/obsidian-plugin-ztranslate)** | Obsidian 划词翻译，选中即译，读完就走 | ![Language](https://img.shields.io/github/languages/top/zqDeJob/obsidian-plugin-ztranslate?style=flat-square&color=F7DF1E) ![Last commit](https://img.shields.io/github/last-commit/zqDeJob/obsidian-plugin-ztranslate?style=flat-square&color=2ea043) ![License](https://img.shields.io/github/license/zqDeJob/obsidian-plugin-ztranslate?style=flat-square&color=yellow) |
-| **[避风塘](https://zqdejob.github.io/)** | Hexo + Butterfly 的个人博客，记录开发、踩坑与日常 | ![Last commit](https://img.shields.io/github/last-commit/zqDeJob/zqDeJob.github.io?style=flat-square&color=2ea043) ![Site](https://img.shields.io/badge/站点-在线-0366d6?style=flat-square&logo=githubpages&logoColor=white) |
-
-> 更多项目见 [github.com/zqDeJob?tab=repositories](https://github.com/zqDeJob?tab=repositories)
 
 ---
 
