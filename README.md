@@ -1,10 +1,7 @@
 <!--
   zqDeJob 的个人主页 README
-  设计思路（参考 shields.io + emoji 的常见美化套路）：
-  1. 顶部居中：打字机动画 + 一句话身份 + for-the-badge 徽章
-  2. 中部：关于我速览表 → 技术栈徽章分组 → 项目一览（带实时状态徽章）
-  3. 底部：GitHub 数据、近况、联系方式、签名
-  改动画/改配色时，只需替换 URL 里的 color= 与 theme=。
+  结构：顶部身份区 → 关于我 → 技术栈 → GitHub 数据 → 近况 → 签名
+  改配色改主题时，替换 URL 里的 color= / theme= 即可。
 -->
 
 <div align="center">
@@ -18,7 +15,7 @@
 <p>
   <a href="https://github.com/zqDeJob"><img src="https://img.shields.io/badge/GitHub-zqDeJob-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://zqdejob.github.io/"><img src="https://img.shields.io/badge/博客-避风塘-0366d6?style=for-the-badge&logo=githubpages&logoColor=white" alt="博客" /></a>
-  <img src="https://img.shields.io/badge/所在地-湖南长沙-f85149?style=for-the-badge&logo=googlemaps&logoColor=white" alt="所在地" />
+  <img src="https://img.shields.io/badge/留言-Issue_或博客评论区-2ea043?style=for-the-badge&logo=githubissues&logoColor=white" alt="留言" />
 </p>
 
 <p>
@@ -29,20 +26,6 @@
 
 </div>
 
----
-
-## 🧭 目录
-
-<p>
-  <a href="#-关于我"><img src="https://img.shields.io/badge/关于我-1f6feb?style=flat-square" alt="关于我" /></a>
-  <a href="#-技术栈"><img src="https://img.shields.io/badge/技术栈-1f6feb?style=flat-square" alt="技术栈" /></a>
-  <a href="#-github-数据"><img src="https://img.shields.io/badge/GitHub_数据-1f6feb?style=flat-square" alt="GitHub 数据" /></a>
-  <a href="#-近况"><img src="https://img.shields.io/badge/近况-1f6feb?style=flat-square" alt="近况" /></a>
-  <a href="#-联系我"><img src="https://img.shields.io/badge/联系我-1f6feb?style=flat-square" alt="联系我" /></a>
-</p>
-
----
-
 ## 🙋 关于我
 
 | | |
@@ -52,8 +35,6 @@
 | 🧩 **日常** | 写点前端与全栈，偶尔做点顺手的小工具 |
 | 🎯 **在写** | [避风塘](https://zqdejob.github.io/) —— Hexo + Butterfly 的个人博客 |
 | ☕ **信条** | 问题不大，工具来凑 |
-
----
 
 ## 🛠 技术栈
 
@@ -86,8 +67,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub 数据
 
 <div align="center">
@@ -108,14 +87,11 @@
 </div>
 
 <!--
-  说明：github-readme-stats / top-langs / activity-graph 都架在 Vercel 上，
-  部分网络环境下会超时（显示为裂图），所以这里只用 streak-stats.demolab.com 和 shields.io。
-  如果哪天 Vercel 能直连，可以再加回来：
+  说明：github-readme-stats / top-langs / activity-graph 都架在 Vercel 上，部分网络环境下会超时（显示为裂图），
+  所以这里只用 streak-stats.demolab.com 和 shields.io。哪天 Vercel 能直连，可以再加回来：
   <img src="https://github-readme-stats.vercel.app/api?username=zqDeJob&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqDeJob&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
 -->
-
----
 
 ## 🌱 近况
 
@@ -159,27 +135,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📫 联系我
-
-<div align="center">
-
-<a href="https://zqdejob.github.io/"><img src="https://img.shields.io/badge/博客-zqdejob.github.io-0366d6?style=for-the-badge&logo=githubpages&logoColor=white" alt="博客" /></a>
-<a href="https://github.com/zqDeJob"><img src="https://img.shields.io/badge/GitHub-zqDeJob-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/留言-Issue_或博客评论区-2ea043?style=for-the-badge&logo=githubissues&logoColor=white" alt="留言" />
-
-</div>
-
----
-
-## ⚡ 趣闻
-
-> Star 的仓库一多就找不到，于是干脆自己写工具来管。  
-> *问题不大，工具来凑。*
-
----
 
 <div align="center">
 
