@@ -92,11 +92,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zqDeJob/zqDeJob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zqDeJob/zqDeJob/main/profile-3d-contrib/profile-season-animate.svg" />
-  <img src="https://raw.githubusercontent.com/zqDeJob/zqDeJob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献图" width="100%" />
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D 贡献图" width="100%" />
+<img src="./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only" alt="3D 贡献图" width="100%" />
 
 <br/>
 
