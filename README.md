@@ -49,8 +49,8 @@
 | :-- | :-- |
 | 🧑‍💻 **称呼** | zqDeJob / Martin |
 | 📍 **坐标** | 湖南 · 长沙 |
-| 🧩 **日常** | 写点前端与全栈，顺手做几个 Obsidian 插件 |
-| 🎯 **在写** | [zTasking](https://github.com/zqDeJob/obsidian-plugin-ztasking) · [zTranslate](https://github.com/zqDeJob/obsidian-plugin-ztranslate) · [避风塘](https://zqdejob.github.io/) |
+| 🧩 **日常** | 写点前端与全栈，偶尔做点顺手的小工具 |
+| 🎯 **在写** | [避风塘](https://zqdejob.github.io/) —— Hexo + Butterfly 的个人博客 |
 | ☕ **信条** | 问题不大，工具来凑 |
 
 ---
