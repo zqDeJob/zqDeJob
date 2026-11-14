@@ -92,6 +92,14 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zqDeJob/zqDeJob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zqDeJob/zqDeJob/main/profile-3d-contrib/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/zqDeJob/zqDeJob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献图" width="100%" />
+</picture>
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=zqDeJob&theme=tokyonight&hide_border=true&locale=zh&card_width=495" alt="Contribution Streak" />
 
 <br/><br/>
